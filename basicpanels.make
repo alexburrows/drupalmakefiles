@@ -17,6 +17,7 @@ projects[] = fences
 projects[] = google_analytics
 projects[] = inline_entity_form
 projects[] = jquery_update
+projects[] = metatag
 projects[] = module_filter
 projects[] = omega
 projects[] = panels
@@ -24,7 +25,15 @@ projects[] = panels_everywhere
 projects[] = panelizer
 projects[] = pathauto
 projects[] = rules
+projects[] = strongarm
 projects[] = token
+projects[] = variable
 projects[] = views
 projects[] = views_slideshow
 projects[] = webform
+projects[] = xmlsitemap
+
+; Libraries
+libraries[colorbox][type] = "libraries"
+libraries[colorbox][download][type] = "file"
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
