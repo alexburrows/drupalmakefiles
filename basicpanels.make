@@ -4,7 +4,9 @@ projects[] = drupal
 
 ; Modules
 ; Contrib
-projects[] = admin
+projects[] = adminimal_theme
+projects[] = admin_menu
+projects[] = bean
 projects[] = ctools
 projects[] = ckeditor
 projects[] = context
