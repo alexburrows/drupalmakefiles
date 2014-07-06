@@ -26,6 +26,7 @@ projects[] = panels
 projects[] = panels_everywhere
 projects[] = panelizer
 projects[] = pathauto
+projects[] = panels_extra_layouts
 projects[] = rules
 projects[] = strongarm
 projects[] = token
